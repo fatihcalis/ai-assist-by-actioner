@@ -1,0 +1,28 @@
+{
+  "name": "AI Assist by Actioner",
+  "author": {
+    "name": "Actioner",
+    "email": "support@actioner.com",
+    "url": "https://www.actioner.com"
+  },
+  "defaultLocale": "en",
+  "private": false,
+  "location": {
+    "support": {
+      "ticket_sidebar": {
+        "url": "assets/iframe.html",
+        "flexible": true
+      }
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0",
+  "domainWhitelist": ["api.actioner.com"],
+  "parameters": [
+    {
+      "name": "actionerApiToken",
+      "type": "text",
+      "secure": true
+    }
+  ]
+}

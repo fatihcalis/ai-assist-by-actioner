@@ -1,14 +1,14 @@
 {
-  "name": "app_scaffold",
+  "name": "ai_assist_by-actioner",
   "version": "2.0.0",
-  "description": "A scaffold for developers to build ZAF v2 apps",
+  "description": "Automated ticket summaries, intent, sentiment analysis.",
   "keywords": [
     "zendesk",
     "app",
     "framework"
   ],
   "author": "Zendesk",
-  "license": "Apache-2.0",
+  "license": "MIT License",
   "engines": {
     "node": ">=18.12.1"
   },

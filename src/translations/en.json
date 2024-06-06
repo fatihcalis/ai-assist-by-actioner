@@ -1,0 +1,17 @@
+{
+  "app": {
+    "name": "AI Assist by Actioner",
+    "short_description": "Automated ticket summaries, intent, sentiment analysis.",
+    "long_description": "[AI Assist for Zendesk](https://actioner.com/app-directory/ai-assist-for-zendesk-143?utm_source=zendesk-marketplace?utm_medium=ai) offers automated summaries of previous Zendesk ticket interactions, intent and sentiment analysis, and quick insights through ticket summaries.\n\n### Features\n\n**Automated interaction summary**\n\n- Instantly analyzes past interactions when a ticket is created.\n\n- Compiles a summary, highlighting key customer history for faster issue resolution.\n\n**Intent analysis**\n\n- Categorizes main purposes or requests in resolved tickets.\n\n- Enhances future interactions with valuable insights for efficient support.\n\n**Sentiment analysis**\n\n- Measures and analyzes sentiments in resolved tickets.\n\n- Conveys customer satisfaction insights to address potential issues proactively.\n\n**Zendesk ticket summary**\n\n- Automatically generates a ticket summary enriched with insights.\n\n- Facilitates clear and concise communication for support agents.\n\n**Start analysis from ticket sidebar manually**\n\n- Provides internal note that covers intent/sentiment analysis and ticket summary.\n\n- Append internal note or regenerate until you find what you want to append.\n\n### How to get started\n\n1.[Sign up](https://app.actioner.com/signup?utm_source=zendesk-marketplace?utm_medium=ai) to Actioner.\n\n2.Install [AI Assist for Zendesk](https://actioner.com/app-directory/ai-assist-for-zendesk-143?utm_source=zendesk-marketplace?utm_medium=ai) to your Actioner workspace.\n\n3.Connect to Zendesk.",
+    "installation_instructions": "### Get started with Actioner’s AI Assist for Zendesk app\n\n1.[Sign up](https://app.actioner.com/signup?utm_source=zendesk-marketplace?utm_medium=ai) to Actioner.\n\n2.Install [AI Assist for Zendesk](https://actioner.com/app-directory/ai-assist-for-zendesk-143?utm_source=zendesk-marketplace?utm_medium=ai) to your Actioner workspace.\n\n3.Connect to Zendesk.\n\n4.Run **Get API Key** workflow on installed app at Actioner to fill Actioner API Key field on Zendesk app.\n\n[Learn how to use this app](https://actioner.com/help/ai-assist-for-zendesk?utm_source=zendesk-marketplace?utm_medium=ai).",
+    "title": "AI Assist by Actioner",
+    "parameters": {
+      "actionerApiToken": {
+        "label": "Actioner API key"
+      }
+    }
+  },
+  "default": {
+    "organizations": "organizations"
+  }
+}
